@@ -1,0 +1,47 @@
+commit c4ca75a89259aca7bdb7f0939c7c3b2c874d454b
+Author: akshithamudupu <mudupuar@gmail.com>
+Date:   Thu Sep 29 11:52:53 2022 -0600
+
+    Moved the eyes further apart
+
+commit 150a69436de68a455b15a66d701d5bd18092f7ef
+Author: Emma Younger <emma.younger18@gmail.com>
+Date:   Thu Sep 29 11:50:57 2022 -0600
+
+    Made mouth bigger
+
+commit ebd526acc5e6010cb8cd88a74205d447161167e8
+Author: akshithamudupu <mudupuar@gmail.com>
+Date:   Thu Sep 29 11:49:58 2022 -0600
+
+    Moved the eyes closer
+
+commit 36d6be55fdafa11d9bab0623efc7cdcb5b1a6971
+Author: Emma Younger <emma.younger18@gmail.com>
+Date:   Thu Sep 29 11:48:40 2022 -0600
+
+    Made head smaller by 50%
+
+commit eeb603ac2344dd52725543c533a6925d2a5d002f
+Author: akshithamudupu <mudupuar@gmail.com>
+Date:   Thu Sep 29 11:47:21 2022 -0600
+
+    Changed meow to howdy folks
+
+commit bb77675e04711dbd512ebdb23fc3e23d9ffb8c86
+Author: Emma Younger <emma.younger18@gmail.com>
+Date:   Thu Sep 29 11:43:22 2022 -0600
+
+    Changed colors of cat
+
+commit 9ef00d06117824b4a08876d7e466ffa5129bf5e2
+Author: akshithamudupu <mudupuar@gmail.com>
+Date:   Thu Sep 29 11:37:47 2022 -0600
+
+    Changed the branch to main
+
+commit c9c618adf15bca324e400a2063c9b1880a739b70
+Author: akshithamudupu <mudupuar@gmail.com>
+Date:   Thu Sep 29 11:21:14 2022 -0600
+
+    Made git ignore file
